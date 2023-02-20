@@ -49,7 +49,7 @@
 		"core-js": "^3.27.2",
 		"js-cool": "^2.8.0",
 		"vue-demi": "^0.13.11",
-		"vue-mount-plugin": "^1.0.0"
+		"vue-mount-plugin": "^2.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.20.12",
