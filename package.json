@@ -47,7 +47,7 @@
 	},
 	"dependencies": {
 		"core-js": "^3.27.2",
-		"js-cool": "^2.8.0",
+		"js-cool": "^4.2.0",
 		"vue-demi": "^0.13.11",
 		"vue-mount-plugin": "^2.0.0"
 	},
